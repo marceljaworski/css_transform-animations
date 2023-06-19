@@ -1,1 +1,1 @@
-### A Project to test and play with CSS animations und transformations.
+### A Project to test / play with CSS animations and transformations.
